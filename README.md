@@ -2,7 +2,7 @@
 
 - MSCV student @ [Carnegie Mellon University, School of Computer Science](https://www.cs.cmu.edu/)
 - Prev BS @ [National Taiwan University](https://www.ntu.edu.tw/english/)
-- Interested in AI, Computer Vision, Embedded Systems, Robotics
+- AI, Computer Vision, Embedded Systems, Robotics
 - [Website](https://berlin0308.github.io/) | [LinkedIn](https://www.linkedin.com/in/polin-chen/) | polinnchen@gmail.com
 
 ---
